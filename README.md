@@ -22,10 +22,10 @@
 
 Via postman o cualquier otro cliente rest:
 
-# addUser:  PUT/ http://localhost:8080/addUser?{username,password,email}
-# getUser:  GET/ http://localhost:8080/getUser/{username}
-# activateUser: POST/ http://localhost:8080/activateUser?{username}
-# deactivateUser: POST/ http://localhost:8080/deactivateUser:?{username}
+### addUser:  PUT/ http://localhost:8080/addUser?{username,password,email}
+### getUser:  GET/ http://localhost:8080/getUser/{username}
+### activateUser: POST/ http://localhost:8080/activateUser?{username}
+### deactivateUser: POST/ http://localhost:8080/deactivateUser:?{username}
 
 
 
