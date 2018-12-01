@@ -8,10 +8,10 @@
 - Ingresar en node_modules/modelo/config.js
   (La base de datos es la misma que la de php)
 
-# host: '...', 
-# user: '...',  
-# password: '...', 
-# database: '...'
+### host: '...', 
+### user: '...',  
+### password: '...', 
+### database: '...'
 
 ## levantar servidor 
 
